@@ -1,0 +1,8 @@
+*.meta
+Frameworks/
+Library/
+user.keystore
+*.sln
+*.userprefs
+obj/
+*.csproj
